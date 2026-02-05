@@ -2,7 +2,7 @@
 ## 📸 Demo
 
 <p align="center">
-  <img src="demo/Chat_bot_demo.png" width="700"/>
+  <img src="demo/Chat_bot_demo.png" width="400"/>
 </p>
 
 
